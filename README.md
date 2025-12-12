@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🖖 Hi, I'm Jenxi
 
-<!--
-**jenxi/jenxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠🧪 I'm a vision alchemist building a cyberbrain.
 
-Here are some ideas to get you started:
+Fiddling with the WWW since 1997. Experimenting with AI/ML workflows. Check what I'm doing [now](https://jenxi.com/now).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+
+- 🤖 [SIMIS (Smart Medical Instruction System)]([/](https://github.com/jevintanjh/SIMISAI) -- Computer vision for healthcare devices: **🏆 1st Place (Healthcare) -- PAN-SEA AI Developer Challenge**
+
+## 🔗 Links
+
+- 📝 Writing at [jenxi.com](https://jenxi.com)
+- 💼 Hustling at [RubyCoded](https://rubycoded.com)
+- 🧀 Moving the cheese at [CheeseFlow](https://cheeseflow.com)
