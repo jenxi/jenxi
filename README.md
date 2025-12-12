@@ -6,7 +6,7 @@ Fiddling with the WWW since 1997. Experimenting with AI/ML workflows. Check what
 
 ## 💻 Projects
 
-- 🤖 [SIMIS (Smart Medical Instruction System)]([/](https://github.com/jevintanjh/SIMISAI) -- Computer vision for healthcare devices: **🏆 1st Place (Healthcare) -- PAN-SEA AI Developer Challenge**
+- 🤖 [SIMIS (Smart Medical Instruction System)](https://github.com/jevintanjh/SIMISAI) -- **🏆 1st Place (Healthcare) -- PAN-SEA AI Developer Challenge**
 
 ## 🔗 Links
 
